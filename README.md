@@ -1,6 +1,6 @@
 # Introduction
 This is the flask server for my course projects, recently brought back to life.
-Due to the fact that it contains some large files, I stored it on bitbucket.
+Run it individually on your local machine or deploy it to a server.
 
 # Installation
 1. Install the requirements
